@@ -1,0 +1,7 @@
+C:\Users\samco\source\repos\evento\bin\Debug\evento.exe.config
+C:\Users\samco\source\repos\evento\bin\Debug\evento.exe
+C:\Users\samco\source\repos\evento\bin\Debug\evento.pdb
+C:\Users\samco\source\repos\evento\obj\Debug\evento.csproj.AssemblyReference.cache
+C:\Users\samco\source\repos\evento\obj\Debug\evento.csproj.CoreCompileInputs.cache
+C:\Users\samco\source\repos\evento\obj\Debug\evento.exe
+C:\Users\samco\source\repos\evento\obj\Debug\evento.pdb
